@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34219.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qlink", "Qlink.csproj", "{9057AAE3-6E0B-4166-BCE8-251C23B12254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9057AAE3-6E0B-4166-BCE8-251C23B12254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9057AAE3-6E0B-4166-BCE8-251C23B12254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9057AAE3-6E0B-4166-BCE8-251C23B12254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9057AAE3-6E0B-4166-BCE8-251C23B12254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4935D524-4FDC-47C3-9668-EF4E70697235}
+	EndGlobalSection
+EndGlobal

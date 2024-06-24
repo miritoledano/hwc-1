@@ -1,0 +1,7 @@
+C:\Users\user1\source\repos\Qlink\bin\Debug\Qlink.exe.config
+C:\Users\user1\source\repos\Qlink\bin\Debug\Qlink.exe
+C:\Users\user1\source\repos\Qlink\bin\Debug\Qlink.pdb
+C:\Users\user1\source\repos\Qlink\obj\Debug\Qlink.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Qlink\obj\Debug\Qlink.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Qlink\obj\Debug\Qlink.exe
+C:\Users\user1\source\repos\Qlink\obj\Debug\Qlink.pdb
